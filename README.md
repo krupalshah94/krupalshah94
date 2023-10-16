@@ -32,9 +32,9 @@ I firmly believe in continuous learning and staying updated with the latest tren
 
 I've worked on a variety of exciting projects. Here are a few highlights:
 
-1. [Compare Wealth](https://github.com/williamgoodhew/cwm_next_site): Brief project description.
-2. [Beyrep](https://github.com/BEYREP/beyrep-api-server): Brief project description.
-3. [Creator Classes](https://github.com/BEYREP/beyrep-web-client): Brief project description.
+1. [Compare Wealth](https://comparewealthmanagers.com/): Compare Wealth is a platform that provides help in different areas of wealth management like Financial Advice, Retirement Planning, Investment Management, Tax and inheritance planning, Private banking, and Wealth management.
+2. [Beyrep](https://www.beyrep.com/): BEYREP is an all-in-one project management tool for Homeowners & Pros to collaborate smarter. It provides the tool to the user who wants to build their home or who wants to provide service to the user who builds their home. BEYREP, a simple online Home Improvement and Reconstruction Management Tool, gives you control to complete your home successfully remodel, renovation, addition, ADU, or new home. Managing a home construction and update can be stressful and overwhelming. That's why we built BEYREP to provide you with the tools for a peaceful project experience from start to finish.
+3. [Creator Classes](https://creatorclasses.co/): Creator classes is a SaaS-based learning platform for connecting learners with their favorite creators through exclusive tutorials, live classes with hand-raise iteration sessions, and much more.
 
 ## 📫 Let's Connect
 

@@ -10,52 +10,38 @@ Welcome to my GitHub profile! I'm Krupal Shah, a passionate full-stack software 
 
 ## 💻 My Tech Stack
 
-- Frontend: **React.js**, **Redux**, **HTML5**, **CSS3**, **JavaScript**
+- Frontend: **React.js**, **Redux**, **Next.js**, **HTML5**, **CSS3**, **JavaScript**, **TypeScript**
 - Backend: **Node.js**, **Express.js**
 - Databases: **MongoDB**, **MySQL**
-- Testing: **Jest**, **Mocha**, **Chai**
+- Testing: **Cypress**, **Jest**, **Mocha**, **Chai**
 - Version Control: **Git**
-- Deployment: **Heroku**, **Netlify**
+- Deployment: **Firebase**, **Vercel**, **Heroku**, **Netlify**
 - DevOps: **Docker**
 - UI/UX: **Figma**, **Adobe XD**
-
-## 👨‍💼 Experience
-
-- Full Stack Developer at XYZ Company (2019 - Present)
-  - Led cross-functional teams to develop cutting-edge web applications.
-  - Optimized application performance, resulting in a 30% reduction in load times.
-  - Collaborated with UI/UX designers to create stunning, user-friendly interfaces.
-
-- Frontend Developer at ABC Inc. (2017 - 2019)
-  - Built and maintained front-end components, ensuring an intuitive user experience.
-  - Implemented responsive design practices, resulting in a 50% increase in mobile traffic.
-  
-- Software Engineer Intern at Company1 (Summer 2016)
-  - Gained hands-on experience in software development methodologies and best practices.
 
 ## 🌱 Learning & Exploring
 
 I firmly believe in continuous learning and staying updated with the latest trends. Here are some areas I'm currently exploring:
 
-- **Next.js**: For server-rendered React applications.
+- **Next.js**: For server-rendered React applications & to create SEO friendly web applications.
 - **GraphQL**: For efficient data querying.
 - **Microservices Architecture**: Exploring new ways to scale and modularize applications.
+- **Nest.js**: For building efficient, scalable, and enterprise-grade backend applications.
 
 ## 🚀 My Projects
 
 I've worked on a variety of exciting projects. Here are a few highlights:
 
-1. [Project Name 1](https://github.com/your/project1): Brief project description.
-2. [Project Name 2](https://github.com/your/project2): Brief project description.
-3. [Project Name 3](https://github.com/your/project3): Brief project description.
+1. [Compare Wealth](https://github.com/williamgoodhew/cwm_next_site): Brief project description.
+2. [Beyrep](https://github.com/BEYREP/beyrep-api-server): Brief project description.
+3. [Creator Classes](https://github.com/BEYREP/beyrep-web-client): Brief project description.
 
 ## 📫 Let's Connect
 
 I'm always open to connect with fellow developers, tech enthusiasts, and creatives. Feel free to reach out through the following channels:
 
-- [LinkedIn](https://www.linkedin.com/in/krupalshah/)
-- [Twitter](https://twitter.com/krupal_dev)
-- Email: krupal.dev@example.com
+- [LinkedIn](http://linkedin.com/in/krupal-shah-199696sep)
+- Email: krupal.citrusbug@gmail.com
 
 ## ⚡ Fun Fact
 
